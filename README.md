@@ -19,8 +19,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/infinitee404/etch-dictionary.git
-    cd multi-step-form
+    git clone https://github.com/infinitee404/fetch-dictionary.git
+    cd fetch-dictionary
     ```
 
 2. Install dependencies:

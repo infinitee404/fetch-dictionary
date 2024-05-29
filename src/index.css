@@ -1,0 +1,25 @@
+:root {
+	--background: #ffffff;
+	--background-light: #efefef;
+	--text: #000000;
+	--text-light: #808080;
+	--accent: #a945ef;
+	--accent-light: #e8d0fa;
+}
+
+[data-theme='dark'] {
+	--background: #000000;
+	--background-light: #232323;
+	--text: #dcdcdc;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: var(--text);
+}
+
+button {
+	cursor: pointer;
+}

@@ -1,6 +1,7 @@
 # Dictionary App
 
 This repository contains a mockup of a dictionary app built using React and Vite. The app is designed to allow users to search for words, view their definitions, and listen to audio pronunciations of the phonetics. Users can input search terms and navigate through the dictionary entries.
+The API used for the dictionary is from https://dictionaryapi.dev. The basic syntax of a URL request to the API is: https://api.dictionaryapi.dev/api/v2/entries/en/<word>
 
 ## Demo
 
@@ -11,6 +12,7 @@ Check out the live demo of the app [here](#).
 - **Word Search**: Users can search for words and view their definitions.
 - **Audio Pronunciations**: Listen to audio pronunciations of the phonetics for each word.
 - **Part of speech**: Users can see all parts of speech of the words and their respective meanings.
+- **Responsive**: The application is responsive for various scrren sizes.
 
 - ## Installation
 

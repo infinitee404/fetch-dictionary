@@ -5,7 +5,7 @@ The API used for the dictionary is from https://dictionaryapi.dev. The basic syn
 
 ## Demo
 
-Check out the live demo of the app [here](#).
+Check out the live demo of the app [here](https://infinitee404.github.io/fetch-dictionary/).
 
 ## Features
 
@@ -13,6 +13,8 @@ Check out the live demo of the app [here](#).
 -   **Audio Pronunciations**: Listen to audio pronunciations of the phonetics for each word.
 -   **Part of speech**: Users can see all parts of speech of the words and their respective meanings.
 -   **Responsive**: The application is responsive for various scrren sizes.
+-   **Dark/Light Theme**: The application has a dark mode and a light mode.
+-   **Font Choice**: The application has a choice for 3 different font faces.
 
 -   ## Installation
 
